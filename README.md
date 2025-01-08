@@ -10,4 +10,4 @@ To execute a specific exercise or file, navigate to src > dsa > SampleExercise# 
 
 [Stack Exercise](https://github.com/arnelimperial/dsaworksheet/tree/stack)
 
-[Queue List Exercise](https://github.com/arnelimperial/dsaworksheet/tree/queue)
+[Queue Exercise](https://github.com/arnelimperial/dsaworksheet/tree/queue)
