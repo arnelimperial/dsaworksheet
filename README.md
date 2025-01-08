@@ -5,4 +5,9 @@ To execute a specific exercise or file, navigate to src > dsa > SampleExercise# 
 
 
 [Arrays Exercise](https://github.com/arnelimperial/dsaworksheet/tree/arrays)
+
 [Linked List Exercise](https://github.com/arnelimperial/dsaworksheet/tree/linkedlist)
+
+[Stack Exercise](https://github.com/arnelimperial/dsaworksheet/tree/stack)
+
+[Queue Exercise](https://github.com/arnelimperial/dsaworksheet/tree/queue)
