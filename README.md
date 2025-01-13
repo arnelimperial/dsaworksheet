@@ -19,3 +19,11 @@ To execute a specific exercise or file, navigate to src > dsa > SampleExercise# 
 [Insertion on Queue Exercise](https://github.com/arnelimperial/dsaworksheet/blob/bubble-sort/src/main/java/dsa/QueueInsertionSort.java)
 
 [Push for a Stack and Insert for a Binary Search Tree Exercise](https://github.com/arnelimperial/dsaworksheet/blob/bubble-sort/src/main/java/dsa/BinarySearchTree.java)
+
+[Add & Delete Algorithm in Array Exercise](https://github.com/arnelimperial/dsaworksheet/blob/add-and-delete/src/main/java/dsa/Array.java)
+
+[Add & Delete Algorithm in Linkedlist Exercise](https://github.com/arnelimperial/dsaworksheet/blob/add-and-delete/src/main/java/dsa/LinkedList.java)
+
+[Add & Delete Algorithm in Stack Exercise](https://github.com/arnelimperial/dsaworksheet/blob/add-and-delete/src/main/java/dsa/Stack.java)
+
+[Add & Delete Algorithm in Queue Exercise](https://github.com/arnelimperial/dsaworksheet/blob/add-and-delete/src/main/java/dsa/Queue.java)
