@@ -1,4 +1,4 @@
-// Insert in Binary Search Tree
+// Implementing two insertion algorithms: Push for a Stack and Insert for a Binary Search Tree (BST).
 
 package dsa;
 
