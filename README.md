@@ -12,4 +12,10 @@ To execute a specific exercise or file, navigate to src > dsa > SampleExercise# 
 
 [Queue Exercise](https://github.com/arnelimperial/dsaworksheet/tree/queue)
 
-[Queue Exercise](https://github.com/arnelimperial/dsaworksheet/tree/bubble-sort)
+[Bubble Sort Exercise](https://github.com/arnelimperial/dsaworksheet/tree/bubble-sort)
+
+[Bubble Sort in Linkedlist Exercise](https://github.com/arnelimperial/dsaworksheet/blob/bubble-sort/src/main/java/dsa/LinkedListBubbleSort.java)
+
+[Insertion on Queue Exercise](https://github.com/arnelimperial/dsaworksheet/blob/bubble-sort/src/main/java/dsa/QueueInsertionSort.java)
+
+[Push for a Stack and Insert for a Binary Search Tree Exercise](https://github.com/arnelimperial/dsaworksheet/blob/bubble-sort/src/main/java/dsa/BinarySearchTree.java)
